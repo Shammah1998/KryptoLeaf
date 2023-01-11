@@ -18,5 +18,9 @@ Our design is made for the good people who love anime as much as we do as a comp
 2. Development.
 
 We wish to grow the main site for individuals to stream and download their favourite anime
+
+
 My contact information: +254725940547
+
+
 Email:shammahvictor71@gmail.com
