@@ -8,6 +8,9 @@ What we do.
 1. Design.
 
 Our design is made for the good people who love anime as much as we do as a company.
+
+
+
 2. Development.
 
 We wish to grow the main site for individuals to stream and download their favourite anime
